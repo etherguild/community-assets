@@ -16,7 +16,6 @@ Thumbs.db
 *.x3g
 
 # Ignore preview renders
-*.png
 *.jpg
 *.jpeg
 *.tiff
